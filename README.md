@@ -24,6 +24,6 @@
 ### 1️⃣ **Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/phone-tracker.git
-cd phone-tracker
+cd phone-tracker```
 
 ##Credits to TECH-TRIBE 
