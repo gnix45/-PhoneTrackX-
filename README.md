@@ -24,6 +24,38 @@
 ### 1️⃣ **Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/phone-tracker.git
-cd phone-tracker```
+cd phone-tracker
+```
+### **Install Depencies**
+```bash
+pip install -r requirements.txt  
+```
+### **Add API's to .env**
+```bash
+NUMVERIFY_API_KEY=your_key_here  
+IPINFO_API_KEY=your_key_here  
+Google_Map_Api=API
+```
+### **Run the scripts**
+```bash
+python main.py  
+```
+### **📍 Example Output:**
+```bash
+📞 Phone Number Details:  
+✅ Valid: True  
+✅ Country: USA  
+✅ Carrier: AT&T  
+✅ Calling Code: +1  
 
-##Credits to TECH-TRIBE 
+🌍 Found IP Address: 192.168.1.1  
+📍 Exact Location:  
+✅ City: New York  
+✅ Region: NY  
+✅ GPS: 40.7128, -74.0060  
+🔗 Google Maps: https://www.google.com/maps?q=40.7128,-74.0060  
+```
+### **Disclaimer**
+**⚡ Use this tool responsibly! This is for educational purposes only.**
+
+## Credits to **TECH-TRIBE**
